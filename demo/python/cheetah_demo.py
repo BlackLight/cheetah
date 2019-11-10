@@ -76,3 +76,7 @@ if __name__ == '__main__':
         transcript += cheetah.flush()
 
         print(transcript)
+
+
+if __name__ == '__main__':
+    main()
