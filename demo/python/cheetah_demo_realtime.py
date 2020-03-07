@@ -141,7 +141,3 @@ if __name__ == '__main__':
         acoustic_model_path=args.acoustic_model_path,
         language_model_path=args.language_model_path,
         license_path=args.license_path).run()
-
-
-if __name__ == '__main__':
-    main()
